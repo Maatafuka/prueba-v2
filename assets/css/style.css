@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #000000;
+}
+
+.hero-section {
+    margin: 0;
+    padding: 0;
+}
+
+footer p {
+    font-size: 30px;
+}
